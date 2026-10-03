@@ -1,0 +1,10 @@
+# personal data created by the program
+expenses.json
+
+# python files
+__pycache__/
+*.pyc
+
+# editor folders
+.vscode/
+.idea/
